@@ -1,0 +1,14 @@
+{
+  "name": "BetMulTi88Info",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "แทงบอลโลก อันดับ1 สเต็ปเทพรวมทุกเว็บไซด์",
+  "keywords": [
+    "multi88"
+  ],
+  "repository": "https://github.com/bet-multi88/multi88.info.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
